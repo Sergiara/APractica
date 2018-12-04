@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1543941955 source:c:\users\sergi\desktop\p\examinesimilaritems\main.cpp
+	<iostream>
+
+1543950916 source:c:\users\sergi\desktop\p\examinesimilaritems\src\motor.cpp
+	"motor.h"
+
+1543949932 c:\users\sergi\desktop\p\examinesimilaritems\include\motor.h
+	"cargaDatos.h"
+	<set>
+
+1543948133 c:\users\sergi\desktop\p\examinesimilaritems\include\cargadatos.h
+	<iostream>
+	<string>
+	<fstream>
+
+1543948130 source:c:\users\sergi\desktop\p\examinesimilaritems\src\cargadatos.cpp
+	"cargaDatos.h"
+
+1543951101 source:c:\users\sergi\desktop\p\examinesimilaritems\src\main.cpp
+	<iostream>
+	"motor.h"
+
